@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("elso manual web commit");
             Console.WriteLine("Hello, World!");
         }
     }
