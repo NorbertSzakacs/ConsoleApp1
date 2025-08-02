@@ -5,7 +5,7 @@
         public int MyProperty { get; set; }
         static void Main(string[] args)
         {
-            Console.WriteLine("elso manual web commit");
+            Console.WriteLine("megint manual web commit");
             Console.WriteLine("Én változtatásom, World!");
         }
     }
