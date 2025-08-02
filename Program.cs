@@ -5,7 +5,7 @@
         public int MyProperty { get; set; }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Én változtatásom, World!");
         }
     }
 }
